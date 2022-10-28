@@ -2,7 +2,7 @@ package com.luv2code.junitdemo;
 
 import java.util.List;
 
-public class DemoUtils {
+public class kDemoUtils {
 
     private String academy = "Luv2Code Academy";
     private String academyDuplicate = academy;
