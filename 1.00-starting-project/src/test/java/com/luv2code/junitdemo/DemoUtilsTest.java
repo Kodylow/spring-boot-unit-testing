@@ -4,10 +4,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class DemoUtilsTest {
+class DemoUtilsTest {
 
     @Test
-    public void testEqualsAndNotEquals() {
+    void testEqualsAndNotEquals() {
         // set up
         DemoUtils demoUtils = new DemoUtils();
 
@@ -23,7 +23,7 @@ public class DemoUtilsTest {
     }
 
     @Test
-    public void testNullAndNotNull() {
+    void testNullAndNotNull() {
         // set up
         DemoUtils demoUtils = new DemoUtils();
 
